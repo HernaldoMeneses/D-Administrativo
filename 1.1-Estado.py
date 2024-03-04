@@ -1,3 +1,4 @@
+'''
 O Estado
     Diversos enfoques
         (...)
@@ -12,5 +13,7 @@ Estado como Ente Personalizado
     Exteriormente - relações internacionais
     Internamente - Pessoa Jurídica de Direito Público
         Adiquire Direitos e Contrai Obrigações na ordem Jurídica
+
+'''
 
 
